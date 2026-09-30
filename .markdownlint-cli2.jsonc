@@ -1,4 +1,4 @@
 {
   "config": { "default": true },
-  "customRules": ["./poc_rs2_rule.cjs"]
+  "customRules": ["./poc_md_rule.cjs"]
 }
