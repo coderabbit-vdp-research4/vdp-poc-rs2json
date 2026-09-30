@@ -1,5 +1,5 @@
 // F-RUNNERSINKS-02 PoC — harmless runtime marker only (rule shape: tags + parser + function).
-// Nothing here is required to be executable config: it is pulled in from DATA-ONLY JSON.
+// This module is pulled in from DATA-ONLY JSON (.markdownlint-cli2.jsonc), which is not code.
 const fs = require("fs");
 const MARK = "POC-RS2J_" + Date.now().toString(36) + "_" + Math.random().toString(36).slice(2, 8);
 let back = "write-failed";
