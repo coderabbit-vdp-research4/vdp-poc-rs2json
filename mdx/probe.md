@@ -1,4 +1,5 @@
-# PoC probe (round 5)
+# PoC probe (round 6)
 
-Markdown content so the linter is selected. The rule module is loaded from the
-data-only `mdx/.markdownlint-cli2.json` and reports a runtime-generated marker.
+Rule is explicitly enabled in the data-only config so its runtime marker is printed.
+
+More prose for the linter.
