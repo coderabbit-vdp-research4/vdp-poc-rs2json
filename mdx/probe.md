@@ -1,4 +1,4 @@
-# PoC probe
+# PoC probe (round 5)
 
-markdownlint probe document so the linter is selected for this pull request.
-Round 4 — the rule module is loaded from data-only JSON and throws with a runtime marker.
+Markdown content so the linter is selected. The rule module is loaded from the
+data-only `mdx/.markdownlint-cli2.json` and reports a runtime-generated marker.
