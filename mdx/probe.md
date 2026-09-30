@@ -1,5 +1,3 @@
-# PoC probe (round 6)
+# PoC probe (round 7)
 
-Rule is explicitly enabled in the data-only config so its runtime marker is printed.
-
-More prose for the linter.
+Markdown so the linter is selected. The rule module is loaded from data-only JSON.
