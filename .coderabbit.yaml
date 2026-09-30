@@ -1,0 +1,16 @@
+language: "en-US"
+tools:
+  markdownlint:
+    enabled: true
+  ruff:
+    enabled: false
+  eslint:
+    enabled: false
+  semgrep:
+    enabled: false
+  trivy:
+    enabled: false
+  vale:
+    enabled: false
+  markdownlint-cli2:
+    enabled: true
